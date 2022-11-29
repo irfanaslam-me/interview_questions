@@ -44,3 +44,8 @@
 
 #### 15) How do you open a command prompt when issuing a command?
 > To open the default shell (which is where the command prompt can be found), press Ctrl-Alt-F1. This will provide a command line interface (CLI) from which you can run commands as needed.
+
+#### 16) what is logical volume in Linux
+> 
+> 
+
